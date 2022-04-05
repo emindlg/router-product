@@ -1,0 +1,15 @@
+.footer {
+    height: 60px;
+    font-size:15px;
+    background-color: rgba(75, 41, 41, 0.476);
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+    bottom: 0px;
+    margin-bottom: 0; 
+    
+  }
+
+ 
+  
